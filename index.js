@@ -6,17 +6,17 @@ const data = [
   {
     name: "test 1",
     age: 20,
-    des: "hayyy test 1",
+    desig: "hayyy test 1",
   },
   {
     name: "test 2",
     age: 20,
-    des: "hayyy test 1",
+    desig: "hayyy test 1",
   },
   {
     name: "test 3",
     age: 20,
-    des: "hayyy test 1",
+    desig: "hayyy test 1",
   },
 ];
 
